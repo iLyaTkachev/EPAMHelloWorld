@@ -8,9 +8,9 @@
     tools:context="com.example.ilya_.epamhelloworld.MainActivity">
 
     <RelativeLayout android:id="@+id/RelativeLayout01"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        xmlns:android="http://schemas.android.com/apk/res/android">
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
 
     <Button android:id="@+id/btnClickMe"
         android:layout_width="wrap_content"
@@ -18,5 +18,5 @@
         android:text="Click Me!"
         android:layout_centerInParent="true"
         />
-    </RelativeLayout>
+</RelativeLayout>
 </android.support.constraint.ConstraintLayout>
